@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como estagiaria de Ciencias de Dados
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
-- 😄 Pronouns: ela/dela 
+
 
 ![devdanias GitHub stats](https://github-readme-stats.vercel.app/api?username=devdanias&show_icons=true&theme=radical)
 
