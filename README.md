@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Eu sou a Daniele de Almeida 😊
 
-<!--
-**devdanias/devdanias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho como estagiaria de Ciencias de Dados
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
+- 😄 Pronouns: ela/dela 
 
-Here are some ideas to get you started:
+![devdanias GitHub stats](https://github-readme-stats.vercel.app/api?username=devdanias&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias que uso em meu dia.
+<div style = "display: inline_block"></>
+<img aLign = "center" aLt = "html" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img aLign = "center" aLt = "html" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div>
+
+###
+
+## Contato
+
+<div> 
+  <a href="https://www.linkedin.com/in/daniele-de-almeida-silva-920b5a23a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
