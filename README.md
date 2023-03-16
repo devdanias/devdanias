@@ -6,6 +6,8 @@
 
 ![devdanias GitHub stats](https://github-readme-stats.vercel.app/api?username=devdanias&show_icons=true&theme=radical)
 
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/126623973/225479065-8bba913f-f7eb-424c-b2d7-2db53c13c9f0.gif">
+</div>
 
 ## Tecnologias que uso em meu dia.
 <div style = "display: inline_block"></>
