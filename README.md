@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Daniele de Almeida 😊
 
-- 🔭 Hoje trabalho como estagiaria de Ciencias de Dados
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 
+- 🔭 Hoje trabalho como assistente de Educação Coporativa
+- 🌱 Atualmente cursando o 5° semestre de Análise e Desenvolvimento de Sistemas 
 
 
 ![devdanias GitHub stats](https://github-readme-stats.vercel.app/api?username=devdanias&show_icons=true&theme=radical)
