@@ -20,7 +20,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 
-
-[![Linkedin]("https://www.linkedin.com/in/daniele-de-almeida-silva-920b5a23a")
-[![Gmail Badge]("danieledealmeidasilva5@gmail.com")
-[![GitHub](https://github.com/devdanias)
+<div> 
+  <a href="https://www.linkedin.com/in/daniele-de-almeida-silva-920b5a23a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:danieledealmeidasilva5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
