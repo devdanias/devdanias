@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - 🎓 Estudando Análise de Desenvolvimento de Sistemas no SENAI.
