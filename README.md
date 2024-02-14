@@ -2,7 +2,7 @@
 
 - 🎓 Estudando Análise de Desenvolvimento de Sistemas no SENAI.
 - 💼 Trabalhando como Assistente de Educação Corporativa.
-- 🌱 Atualmente aprendendo mais sobre: HTML, CSS e JAVASCRIPT.
+- 🌱 Atualmente aprendendo mais sobre: HTML, CSS, JAVASCRIPT e PYTHON.
 
 ## Minhas Skills
 
