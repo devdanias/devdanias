@@ -2,7 +2,7 @@
 
 - 🎓 Estudando Análise de Desenvolvimento de Sistemas no SENAI.
 - 💼 Trabalhando como Assistente de Educação Corporativa.
-- 🌱 Atualmente aprendendo mais sobre:PYTHON e PHP.
+- 🌱 Atualmente aprendendo mais sobre: PYTHON e PHP.
 
 ## Minhas Skills
 
