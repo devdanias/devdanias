@@ -6,7 +6,7 @@
 
 ## Minhas Skills
 
-##Tecnologias que ja trablhei
+## Tecnologias que ja trablhei
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
