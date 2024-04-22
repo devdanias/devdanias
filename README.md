@@ -5,9 +5,9 @@
 
 ## About me
 
-- 🎓 Estudando Análise de Desenvolvimento de Sistemas no SENAI.
-- 💼 Trabalhando como Assistente de Implantação em RH.
-- 🌱 Atualmente aprendendo mais sobre: PYTHON e TYPESCRIPT.
+- 🎓 Systems Development Analysis student at SENAI..
+- 💼 Working as an HR Implementation Assistant.
+- 🌱 Currently learning more about: PYTHON and TYPESCRIPT.
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=228B22&color:228B22)](mailto:danieledealmeidasilva5@gmail.com)
