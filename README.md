@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=228B22&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Daniele+Almeida!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
+## Sobre mim
 
-<p align="left">- 🎓 Estudando Análise de Desenvolvimento de Sistemas no SENAI.
+- 🎓 Estudando Análise de Desenvolvimento de Sistemas no SENAI.
 - 💼 Trabalhando como Assistente de Educação Corporativa.
 - 🌱 Atualmente aprendendo mais sobre: PYTHON, PHP e TYPESCRIPT.
-<h3 align="left">Connect with me!</h3>
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=228B22&color:228B22)](mailto:danieledealmeidasilva5@gmail.com)
@@ -43,15 +43,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
-
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a>.
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
-  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">Mari4souza</a>.</div>
-
-</details>
