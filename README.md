@@ -5,7 +5,7 @@
 
 ## About me
 
-- 🎓 Systems Development Analysis student at SENAI..
+- 🎓 Systems Development Analysis student at SENAI.
 - 💼 Working as an HR Implementation Assistant.
 - 🌱 Currently learning more about: PYTHON and TYPESCRIPT.
 
