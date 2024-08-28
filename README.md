@@ -1,13 +1,13 @@
 <img align="right" alt="" height="300px" src="./me.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=228B22&random=false&width=435&height=40&lines=Hi,+I'm+Daniele+Almeida!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=228B22&random=false&width=435&height=40&lines=Olá,+Sou+Daniele+Almeida!)](https://git.io/typing-svg)
 
 
-## About me
+## Sobre mim
 
-- 🎓 Systems Development Analysis student at SENAI.
-- 🖥️ Working as an HR Implementation Analyst Jr
-- ✏️ Currently learning more about: PYTHON.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no SENAI.
+- 🖥️ Analista de Implementação de RH Jr.
+- ✏️ Atualmente aprendendo mais sobre: PYTHON.
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=228B22&color:228B22)](mailto:danieledealmeidasilva5@gmail.com)
