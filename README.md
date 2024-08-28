@@ -13,7 +13,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=228B22&color:228B22)](mailto:danieledealmeidasilva5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=228B22&color:228B22)](https://www.linkedin.com/in/daniele-de-almeida-silva-920b5a23a)
 
-<h3 align="left">Tecnologias que conheço</h3>
+<h3 align="left">Tecnologias que uso/conheço</h3>
 
 <div align="left">
           
