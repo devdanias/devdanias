@@ -6,7 +6,7 @@
 ## Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas no SENAI.
-- 🖥️ Analista de Implementação em RH Jr.
+- 🖥️ Analista de Implantação em RH Jr.
 - ✏️ Atualmente aprendendo mais sobre: PYTHON.
 
 
