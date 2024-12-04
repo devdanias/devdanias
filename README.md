@@ -1,9 +1,9 @@
-<img align="right" alt="Minha foto" height="300px" src="https://github.com/user-attachments/assets/797be028-1d0a-4b30-b7c4-f87ae3c872cc">
+<img align="right" alt="Minha foto" height="200px" src="https://github.com/user-attachments/assets/797be028-1d0a-4b30-b7c4-f87ae3c872cc">
 
 ## Sobre mim
 
 - 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas no **SENAI**.
-- 🖥️ *Analista de Implantação em RH Jr.**.
+- 🖥️ **Analista de Implantação em RH Jr.**.
 - ✏️ Atualmente aprendendo mais sobre: **Python**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-d-920b5a23a)
@@ -34,8 +34,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devdanias&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=228B22&text_color=FFF&border_radius=3&border_color=228B22&icon_color=228B22&theme=jolly" alt="GitHub stats" />
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devdanias&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=228B22&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=228B22" alt="Most Used Languages" />
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devdanias&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=228B22&text_color=FFF&border_radius=3&border_color=228B22&icon_color=228B22&theme=jolly" alt="GitHub stats" />
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devdanias&line_height=10&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=228B22&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=228B22" alt="Most Used Languages" />
 </div>
 
 ---
