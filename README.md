@@ -1,5 +1,3 @@
-<img align="right" alt="Minha foto" height="200px" src="https://github.com/user-attachments/assets/797be028-1d0a-4b30-b7c4-f87ae3c872cc">
-
 ## Sobre mim
 
 - 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas no **SENAI**.
