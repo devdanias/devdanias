@@ -1,8 +1,5 @@
 <img align="right" alt="" height="300px" src="./me.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=228B22&random=false&width=435&height=40&lines=Olá,+sou+Daniele+Almeida!)](https://git.io/typing-svg)
-
-
 ## Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas no SENAI.
