@@ -1,8 +1,8 @@
 ## Sobre mim
 
-- 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas no **SENAI**.
-- 🖥️ Analista de Implantação em RH Jr.
-- ✏️ Atualmente aprendendo mais sobre: **Python**.
+- 🎓 **Formada** em Análise e Desenvolvimento de Sistemas no **SENAI**.  
+- 🖥️ Analista de Implantação em RH Jr.  
+- ✏️ Atualmente aprendendo mais sobre: **Análise de Dados** e **Inteligência Artificial (IA)**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-d-920b5a23a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieledealmeidasilva5@gmail.com)
