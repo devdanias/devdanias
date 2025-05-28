@@ -1,7 +1,7 @@
 ## Sobre mim
 
 - 🎓 **Formada** em Análise e Desenvolvimento de Sistemas no **SENAI**.  
-- 🖥️ Analista de Implantação em RH Jr.  
+- 🖥️ Analista de Implantação em RH Pl.  
 - ✏️ Atualmente aprendendo mais sobre: **Análise de Dados** e **Inteligência Artificial (IA)**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-d-920b5a23a)
