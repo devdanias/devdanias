@@ -20,7 +20,7 @@ class Daniele:
     cargo      = ["Analista de Implantação em RH · Pl."]
     foco_atual = ["IA Generativa", "Agentes de IA", "Criação de Skills"]
     aprendendo = ["Análise de Dados avançada", "LLMs & Prompt Engineering"]
-    hobbies    = ["tecnologia", "café ☕", "aprender coisas novas"]
+    hobbies    = ["tecnologia", "livros", "aprender coisas novas"]
 ```
 
 ---
