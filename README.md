@@ -43,18 +43,6 @@ class Daniele:
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />&nbsp;<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/devdanias?cardType=github&theme=dracula&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
-
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <picture>
