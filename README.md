@@ -31,7 +31,7 @@ Pós-graduação em Ciência de Dados & IA
 <td width="50%">
 
 **🤖 Foco atual**  
-IA Generativa · Agentes de IA · Criação de Skills
+IA Generativa · Agentes de IA · Skills
 
 **📚 Estudando**  
 Análise de Dados · LLMs · Prompt Engineering
@@ -53,22 +53,60 @@ Análise de Dados · LLMs · Prompt Engineering
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=python,postgres,mysql,django,react,nodejs,nestjs,gitlab,vscode&perline=9"
+  src="https://skillicons.dev/icons?i=python,postgres,mysql,django,react,nodejs,nestjs,gitlab,github,vscode&perline=10"
   alt="Tecnologias"
 />
 
-<br>
+</div>
 
-<img
-  src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white"
-  alt="ChatGPT"
-/>
-<img
-  src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"
-  alt="Claude"
-/>
+---
+
+## 🤖 IA & Desenvolvimento Assistido
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
 
 </div>
+
+<br>
+
+<table align="center" width="85%">
+<tr>
+<td width="50%" valign="top">
+
+**⌨️ IA no Terminal & IDE**
+
+Uso ferramentas de IA integradas ao fluxo de desenvolvimento para apoiar análise, implementação, automação e manutenção de código.
+
+`Codex` · `Claude Code` · `CLI` · `IDE`
+
+</td>
+
+<td width="50%" valign="top">
+
+**🧩 Skills & Plugins**
+
+Desenvolvimento de Skills e Plugins versionados no GitHub e GitLab para utilização direta no terminal e no ambiente de desenvolvimento.
+
+`Skills` · `Plugins` · `GitHub` · `GitLab`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+**🧠 Agentes especializados**
+
+`Desenvolvimento` · `Code Review` · `Segurança da Informação` · `Análise` · `Automação` · `Documentação`
+
+</td>
+</tr>
+</table>
 
 ---
 
