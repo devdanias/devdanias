@@ -72,31 +72,17 @@ Análise de Dados · LLMs · Prompt Engineering
 
 ---
 
-<details>
-<summary><b>🐍 Contribuições no GitHub</b></summary>
-
-<br>
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg"
-  >
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=devdanias&theme=github-compact&area=true&hide_border=true&radius=8&custom_title=Atividade%20de%20Contribuicoes"
+  width="95%"
+  alt="Gráfico de atividade no GitHub"
+/>
 
 </div>
-
-</details>
 
 ---
 
